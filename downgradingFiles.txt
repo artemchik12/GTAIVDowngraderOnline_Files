@@ -1,3 +1,16 @@
 # Download links for main downgrading files.
-# Format: TYPE|VERSION|FILENAME|URL
-# Example: RADIO_DOWNGRADE|1070|LegacyRadioDowngrade.zip|Url...
+# Format: TYPE|VERSION|FILENAME|FILESIZE (In Bytes)|URL
+# Example: RADIO_DOWNGRADE|1070|LegacyRadioDowngrade.zip|690261329 (= 658 MB)|Url...
+
+GAME_DOWNGRADE|1040|1040.zip|35267641|https://drive.google.com/u/0/uc?export=download&confirm=WoQH&id=173MtYY42CVe9rprtQb6AT1OUKQVRlg5k
+GAME_DOWNGRADE|1070|1070.zip|89712349|https://drive.google.com/u/0/uc?export=download&confirm=EOZW&id=1WCfwUoyl2mQoAsWQ2uGFZh640sWetiR0
+GAME_DOWNGRADE|1080|1080.zip|89741442|https://drive.google.com/u/0/uc?export=download&confirm=NqtX&id=18B5KifSTw7Qh5QT-E6pgPqniw58NA1NB
+
+RADIO_DOWNGRADE|ALL|LegacyRadioDowngrader.zip|690261329|https://drive.google.com/u/0/uc?export=download&confirm=Gv5Y&id=1Hus58Kwjlc5YYlrD738nP86HJDQ0ijQ9
+RADIO_DOWNGRADE|ALL|SneedsRadioDowngrader.zip|719170076|https://drive.google.com/u/0/uc?export=download&confirm=4gVS&id=1_OYRjZhBbD4A_5MXl9N6MuYxwUAID0UY
+RADIO_DOWNGRADE|ALL|WithNewVladivostok.zip|596904|https://doc-0k-4g-docs.googleusercontent.com/docs/securesc/i2f1qsqnnkhkcitve6k7ergun42er9nf/mnd6brmsgk17a8vephsv0g08vef16sqa/1643820225000/17483627825805440393/17483627825805440393/1N9T71HEt45fwzEjY-wraPFrndb6Jr4JX?e=download&authuser=0
+RADIO_DOWNGRADE|ALL|WithoutNewVladivostok.zip|594735|https://doc-0s-4g-docs.googleusercontent.com/docs/securesc/i2f1qsqnnkhkcitve6k7ergun42er9nf/51lnpcjencqu53sdg7a9ntq3tlq5u2br/1643820300000/17483627825805440393/17483627825805440393/1Tfl6sDKGxllEyssTvbmBmEdKO3xEOrMX?e=download&authuser=0
+RADIO_DOWNGRADE|ALL|EpisodeOnlyMusicCE.zip|67132|https://doc-04-4g-docs.googleusercontent.com/docs/securesc/i2f1qsqnnkhkcitve6k7ergun42er9nf/q2rojodekgqroiicflhdeaopmqtd45kr/1643820375000/17483627825805440393/17483627825805440393/1XCsPQhyZgVreyIj3Xj0OFq1rVR0cT8gD?e=download&authuser=0
+
+REDISTRIBUTABLES|ALL|directx_Jun2010_redist.exe|100275120|https://drive.google.com/u/0/uc?export=download&confirm=jRW0&id=1DZ_aVHQbSvjV0ljup1lqpU-8uNk4wX9m
+REDISTRIBUTABLES|ALL|vcredist_x86.exe|2723264|https://drive.google.com/u/0/uc?export=download&confirm=Jp1h&id=19YPraEpI9wMO9oLr9cTZwwxxxsw5IzpP
