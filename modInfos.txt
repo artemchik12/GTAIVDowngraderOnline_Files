@@ -1,7 +1,6 @@
 # All mods that should be shown in the downgrader
 # Format: IsASILoader|IsScriptHook|IsScriptHookHook|IsScriptHookDotNet|RequiresASILoader|RequiresScriptHook|RequiresScriptHookDotNet|CheckedByDefault|ForVersion|Filename|Name|Description|DownloadLink
 # Important: The description shouldn't include a | because this would fuck up the parsing in the GTA IV Downgrader.
-# Important 2: Empty lines should start with a #.
 
 0|0|0|0|1|0|0|0|1070,1080|ColAccel.zip|ColAccel|ColAccel is a .asi plugin for GTA IV and EFLC which creates a 'colCache.dat' file on the first load, containing all the data actually used by the game from the collision meshes and accelerating your game load time by 50% or more.|URL
 
