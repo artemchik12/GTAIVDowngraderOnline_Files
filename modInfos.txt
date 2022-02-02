@@ -2,20 +2,20 @@
 # Format: IsASILoader|IsScriptHook|IsScriptHookHook|IsScriptHookDotNet|RequiresASILoader|RequiresScriptHook|RequiresScriptHookDotNet|CheckedByDefault|ForVersion|Filename|Name|Description|DownloadLink
 # Important: The description shouldn't include a | because this would fuck up the parsing in the GTA IV Downgrader.
 
-0|0|0|0|1|0|0|0|1070,1080|ColAccel.zip|ColAccel|ColAccel is a .asi plugin for GTA IV and EFLC which creates a 'colCache.dat' file on the first load, containing all the data actually used by the game from the collision meshes and accelerating your game load time by 50% or more.|URL
+0|0|0|0|1|0|0|0|1070,1080|ColAccel.zip|ColAccel|ColAccel is a .asi plugin for GTA IV and EFLC which creates a 'colCache.dat' file on the first load, containing all the data actually used by the game from the collision meshes and accelerating your game load time by 50% or more.|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ColAccel.zip
 
-0|0|0|0|1|0|0|0|1070,1080|FusionFix.zip|FusionFix|Fixes issues with Recoil and limits the FPS. FPS limitations are to reduce mission issues.|URL
+0|0|0|0|1|0|0|0|1070,1080|FusionFix.zip|FusionFix|Fixes issues with Recoil and limits the FPS. FPS limitations are to reduce mission issues.|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/FusionFix.zip
 
-0|1|0|0|0|0|0|0|1070|ScriptHook_1070.zip|ScriptHook for 1.0.7.0|ScriptHook is needed in order to run ASI scripts which were built using aru's Script Hook SDK.|URL
-0|1|0|0|0|0|0|0|1080|ScriptHook_1080.zip|ScriptHook for 1.0.8.0|ScriptHook is needed in order to run ASI scripts which were built using aru's Script Hook SDK.|URL
+0|1|0|0|0|0|0|0|1070|ScriptHook_1070.zip|ScriptHook for 1.0.7.0|ScriptHook is needed in order to run ASI scripts which were built using aru's Script Hook SDK.|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ScriptHook_1070.zip
+0|1|0|0|0|0|0|0|1080|ScriptHook_1080.zip|ScriptHook for 1.0.8.0|ScriptHook is needed in order to run ASI scripts which were built using aru's Script Hook SDK.|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ScriptHook_1080.zip
 
-0|0|0|0|1|0|0|0|ALL|SimpleTrafficLoader.zip|Simple Traffic Loader|This mod fixes the famous taxi bug where only taxis spawn on the street. It refreshes the games memory with new vehicles you can specify in the SimpleTrafficLoader.txt file.|URL
+0|0|0|0|1|0|0|0|ALL|SimpleTrafficLoader.zip|Simple Traffic Loader|This mod fixes the famous taxi bug where only taxis spawn on the street. It refreshes the games memory with new vehicles you can specify in the SimpleTrafficLoader.txt file.|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/SimpleTrafficLoader.zip
 
-0|0|0|0|1|0|0|0|ALL|SteamAchievements.zip|SteamAchievements|This mod allows you to get achievements on steam with your downgraded copy of GTA IV.|URL
+0|0|0|0|1|0|0|0|ALL|SteamAchievements.zip|SteamAchievements|This mod allows you to get achievements on steam with your downgraded copy of GTA IV.|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/SteamAchievements.zip
 
-1|0|0|0|0|0|0|1|ALL|xlive.zip|xlive|Recommended ASI Loader that also disables xlive (GFWL). An ASI Loader is required for mods such as ZolikaPatch.|URL
+1|0|0|0|0|0|0|1|ALL|xlive.zip|xlive|Recommended ASI Loader that also disables xlive (GFWL). An ASI Loader is required for mods such as ZolikaPatch.|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/xlive.zip
 
-0|0|0|0|1|0|0|0|ALL|ZMenuIV.zip|ZMenuIV v22.01.01.1|A great trainer with many features such as object/vehicle/ped spawning, teleporting, first person, vehicle tuning, built in SCO Loader, Chaos Mod, Ped/Car Recording, Memory Editing and much much more! Created by Zolika1351.|URL
+0|0|0|0|1|0|0|0|ALL|ZMenuIV.zip|ZMenuIV v22.01.23.1|A great trainer with many features such as object/vehicle/ped spawning, teleporting, first person, vehicle tuning, built in SCO Loader, Chaos Mod, Ped/Car Recording, Memory Editing and much much more! Created by Zolika1351.|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ZMenuIV.zip
 
-0|0|0|0|1|0|0|1|1040|ZolikaPatch_1040.zip|ZolikaPatch v6.9.2 (Configuration file optimized for 1.0.4.0)|This mod aims to fix & improve various things in GTA IV, such as restoring vehicle shadows in the Booth Tunnel and heli spotlights, removing the mod-only lobby seperation from 1.0.7.0, fixing VRAM issues on patch 7 and below, and removing the requirement to log into Social Club to play Multiplayer.|URL
-0|0|0|0|1|0|0|1|1070,1080|ZolikaPatch.zip|ZolikaPatch v6.9.2|This mod aims to fix & improve various things in GTA IV, such as restoring vehicle shadows in the Booth Tunnel and heli spotlights, removing the mod-only lobby seperation from 1.0.7.0, fixing VRAM issues on patch 7 and below, and removing the requirement to log into Social Club to play Multiplayer.|URL
+0|0|0|0|1|0|0|1|1040|ZolikaPatch_1040.zip|ZolikaPatch v6.9.3 (Configuration file optimized for 1.0.4.0)|This mod aims to fix & improve various things in GTA IV, such as restoring vehicle shadows in the Booth Tunnel and heli spotlights, removing the mod-only lobby seperation from 1.0.7.0, fixing VRAM issues on patch 7 and below, and removing the requirement to log into Social Club to play Multiplayer.|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ZolikaPatch_1040.zip
+0|0|0|0|1|0|0|1|1070,1080|ZolikaPatch.zip|ZolikaPatch v6.9.3|This mod aims to fix & improve various things in GTA IV, such as restoring vehicle shadows in the Booth Tunnel and heli spotlights, removing the mod-only lobby seperation from 1.0.7.0, fixing VRAM issues on patch 7 and below, and removing the requirement to log into Social Club to play Multiplayer.|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ZolikaPatch.zip
