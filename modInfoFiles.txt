@@ -1,2 +1,0 @@
-# Downloads links for mod info file and actual mod file.
-# Format: MOD_INFO_FILE_URL|ACTUAL_MOD_URL
