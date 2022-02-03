@@ -12,5 +12,5 @@ RADIO_DOWNGRADE|ALL|WithNewVladivostok.zip|596904|https://doc-0k-4g-docs.googleu
 RADIO_DOWNGRADE|ALL|WithoutNewVladivostok.zip|594735|https://doc-0s-4g-docs.googleusercontent.com/docs/securesc/i2f1qsqnnkhkcitve6k7ergun42er9nf/51lnpcjencqu53sdg7a9ntq3tlq5u2br/1643820300000/17483627825805440393/17483627825805440393/1Tfl6sDKGxllEyssTvbmBmEdKO3xEOrMX?e=download&authuser=0
 RADIO_DOWNGRADE|ALL|EpisodeOnlyMusicCE.zip|67132|https://doc-04-4g-docs.googleusercontent.com/docs/securesc/i2f1qsqnnkhkcitve6k7ergun42er9nf/q2rojodekgqroiicflhdeaopmqtd45kr/1643820375000/17483627825805440393/17483627825805440393/1XCsPQhyZgVreyIj3Xj0OFq1rVR0cT8gD?e=download&authuser=0
 
-REDISTRIBUTABLES|ALL|directx_Jun2010_redist.exe|100275120|https://drive.google.com/u/0/uc?export=download&confirm=jRW0&id=1DZ_aVHQbSvjV0ljup1lqpU-8uNk4wX9m
-REDISTRIBUTABLES|ALL|vcredist_x86.exe|2723264|https://drive.google.com/u/0/uc?export=download&confirm=Jp1h&id=19YPraEpI9wMO9oLr9cTZwwxxxsw5IzpP
+REDISTRIBUTABLES|ALL|directx_Jun2010_redist.exe|100275120|https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe
+REDISTRIBUTABLES|ALL|vcredist_x86.exe|2723264|https://download.microsoft.com/download/8/B/4/8B42259F-5D70-43F4-AC2E-4B208FD8D66A/vcredist_x86.EXE
