@@ -8,9 +8,9 @@ GAME_DOWNGRADE|1080|1080.zip|89741442|https://drive.google.com/u/0/uc?export=dow
 
 RADIO_DOWNGRADE|ALL|LegacyRadioDowngrader.zip|690261329|https://drive.google.com/u/0/uc?export=download&confirm=Gv5Y&id=1Hus58Kwjlc5YYlrD738nP86HJDQ0ijQ9
 RADIO_DOWNGRADE|ALL|SneedsRadioDowngrader.zip|719170076|https://drive.google.com/u/0/uc?export=download&confirm=4gVS&id=1_OYRjZhBbD4A_5MXl9N6MuYxwUAID0UY
-RADIO_DOWNGRADE|ALL|WithNewVladivostok.zip|596904|https://doc-0k-4g-docs.googleusercontent.com/docs/securesc/i2f1qsqnnkhkcitve6k7ergun42er9nf/mnd6brmsgk17a8vephsv0g08vef16sqa/1643820225000/17483627825805440393/17483627825805440393/1N9T71HEt45fwzEjY-wraPFrndb6Jr4JX?e=download&authuser=0
-RADIO_DOWNGRADE|ALL|WithoutNewVladivostok.zip|594735|https://doc-0s-4g-docs.googleusercontent.com/docs/securesc/i2f1qsqnnkhkcitve6k7ergun42er9nf/51lnpcjencqu53sdg7a9ntq3tlq5u2br/1643820300000/17483627825805440393/17483627825805440393/1Tfl6sDKGxllEyssTvbmBmEdKO3xEOrMX?e=download&authuser=0
-RADIO_DOWNGRADE|ALL|EpisodeOnlyMusicCE.zip|67132|https://doc-04-4g-docs.googleusercontent.com/docs/securesc/i2f1qsqnnkhkcitve6k7ergun42er9nf/q2rojodekgqroiicflhdeaopmqtd45kr/1643820375000/17483627825805440393/17483627825805440393/1XCsPQhyZgVreyIj3Xj0OFq1rVR0cT8gD?e=download&authuser=0
+RADIO_DOWNGRADE|ALL|WithNewVladivostok.zip|596904|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/WithNewVladivostok.zip
+RADIO_DOWNGRADE|ALL|WithoutNewVladivostok.zip|594735|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/WithoutNewVladivostok.zip
+RADIO_DOWNGRADE|ALL|EpisodeOnlyMusicCE.zip|67132|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/EpisodeOnlyMusicCE.zip
 
 REDISTRIBUTABLES|ALL|directx_Jun2010_redist.exe|100275120|https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe
 REDISTRIBUTABLES|ALL|vcredist_x86.exe|2723264|https://download.microsoft.com/download/8/B/4/8B42259F-5D70-43F4-AC2E-4B208FD8D66A/vcredist_x86.EXE
