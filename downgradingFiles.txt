@@ -1,16 +1,16 @@
 # Download links for main downgrading files.
-# Format: TYPE|VERSION|FILENAME|FILESIZE (In Bytes)|URL
-# Example: RADIO_DOWNGRADE|1070|LegacyRadioDowngrade.zip|690261329 (= 658 MB)|Url...
+# Format: TYPE|VERSION|FILENAME|FILESIZE (In Bytes)|USE_GOOGLE_DOWNLOADER|URL
+# Example: RADIO_DOWNGRADE|1070|LegacyRadioDowngrade.zip|690261329 (= 658 MB)|True|Url...
 
-GAME_DOWNGRADE|1040|1040.zip|35267641|https://www.dropbox.com/s/c2hbfl6me36hrhx/1040.zip?dl=1
-GAME_DOWNGRADE|1070|1070.zip|89712349|https://www.dropbox.com/s/57q6pxenr3b57w6/1070.zip?dl=1
-GAME_DOWNGRADE|1080|1080.zip|89741442|https://www.dropbox.com/s/9ql0w4zwqowdp6u/1080.zip?dl=1
+GAME_DOWNGRADE|1040|1040.zip|35267641|1|https://drive.google.com/file/d/1An1KCS_XD83S-FRG8hrm4YxIBcuvaVOv/view?usp=sharing
+GAME_DOWNGRADE|1070|1070.zip|89712349|1|https://drive.google.com/file/d/1HiCtBioW6-2WOMPaTWgzohLlsDAULnLb/view?usp=sharing
+GAME_DOWNGRADE|1080|1080.zip|89741442|1|https://drive.google.com/file/d/1_M8zWMyH3TB0uip1BcGajCqj-oRB1Uj9/view?usp=sharing
 
-RADIO_DOWNGRADE|ALL|LegacyRadioDowngrader.zip|690261329|https://www.dropbox.com/s/n7c4t0ijrj14ua6/LegacyRadioDowngrader.zip?dl=1
-RADIO_DOWNGRADE|ALL|SneedsRadioDowngrader.zip|719170076|https://www.dropbox.com/s/3sdd5rj381zlgmg/SneedsRadioDowngrader.zip?dl=1
-RADIO_DOWNGRADE|ALL|WithNewVladivostok.zip|596904|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/WithNewVladivostok.zip
-RADIO_DOWNGRADE|ALL|WithoutNewVladivostok.zip|594735|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/WithoutNewVladivostok.zip
-RADIO_DOWNGRADE|ALL|EpisodeOnlyMusicCE.zip|67132|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/EpisodeOnlyMusicCE.zip
+RADIO_DOWNGRADE|ALL|LegacyRadioDowngrader.zip|690261329|1|https://drive.google.com/file/d/16wYo5EczMkiwWp6iMWL9Prnewrh51AO6/view?usp=sharing
+RADIO_DOWNGRADE|ALL|SneedsRadioDowngrader.zip|719170076|1|https://drive.google.com/file/d/1gxwJJstV7HaCpvN-Std5n4XWdwEwdrTQ/view?usp=sharing
+RADIO_DOWNGRADE|ALL|WithNewVladivostok.zip|596904|0|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/WithNewVladivostok.zip
+RADIO_DOWNGRADE|ALL|WithoutNewVladivostok.zip|594735|0|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/WithoutNewVladivostok.zip
+RADIO_DOWNGRADE|ALL|EpisodeOnlyMusicCE.zip|67132|0|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/EpisodeOnlyMusicCE.zip
 
-REDISTRIBUTABLES|ALL|directx_Jun2010_redist.exe|100275120|https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe
-REDISTRIBUTABLES|ALL|vcredist_x86.exe|2723264|https://download.microsoft.com/download/8/B/4/8B42259F-5D70-43F4-AC2E-4B208FD8D66A/vcredist_x86.EXE
+REDISTRIBUTABLES|ALL|directx_Jun2010_redist.exe|100275120|0|https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe
+REDISTRIBUTABLES|ALL|vcredist_x86.exe|2723264|0|https://download.microsoft.com/download/8/B/4/8B42259F-5D70-43F4-AC2E-4B208FD8D66A/vcredist_x86.EXE
