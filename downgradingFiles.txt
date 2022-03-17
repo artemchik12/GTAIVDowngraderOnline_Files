@@ -1,6 +1,6 @@
 # Download links for main downgrading files.
 # Format: TYPE|VERSION|FILENAME|FILESIZE (In Bytes)|USE_GOOGLE_DOWNLOADER|URL
-# Example: RADIO_DOWNGRADE|1070|LegacyRadioDowngrade.zip|690261329 (= 658 MB)|True|Url...
+# Example: RADIO_DOWNGRADE|1070|LegacyRadioDowngrade.zip|690261329 (= 658 MB)|1|Url...
 
 GAME_DOWNGRADE|1040|1040.zip|35267641|1|https://drive.google.com/file/d/1xE-YPuMhfnuUixZp0topZ3562ySqxyIS/view
 GAME_DOWNGRADE|1070|1070.zip|89712349|1|https://drive.google.com/file/d/1uCcZXTuS6p1MdQMXsfPaWm_PTEmlnH_v/view
