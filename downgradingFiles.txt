@@ -3,8 +3,8 @@
 # Example: RADIO_DOWNGRADE|1070|LegacyRadioDowngrade.zip|690261329 (= 658 MB)|0|1|Url...
 
 GAME_DOWNGRADE|1040|1040.zip|35267641|1|0|https://download1080.mediafire.com/5kgsw6z608ug/19z3wn8tlm4sye7/_1040.zip
-GAME_DOWNGRADE|1070|1070.zip|89712349|1|1|https://drive.google.com/file/d/1XqhbO-xW_1E_FLbJc_GKjAdvt2D2Wad3/view?usp=sharing
-GAME_DOWNGRADE|1080|1080.zip|89741442|1|1|https://drive.google.com/file/d/1EPI4idVIdiDKMfk7fE-e8Ov9qo3wW7Qy/view?usp=sharing
+GAME_DOWNGRADE|1070|1070.zip|89712349|1|0|https://download1478.mediafire.com/e4r7tsouuiag/zkms2o5t2xe2ilo/_1070.zip
+GAME_DOWNGRADE|1080|1080.zip|89741442|1|0|https://download1493.mediafire.com/mupq4fc1qnng/64tpyr1g0h2cm27/_1080.zip
 
 RADIO_DOWNGRADE|ALL|LegacyRadioDowngrader.zip|690261329|0|1|https://drive.google.com/file/d/16wYo5EczMkiwWp6iMWL9Prnewrh51AO6/view
 RADIO_DOWNGRADE|ALL|SneedsRadioDowngrader.zip|719170076|0|1|https://drive.google.com/file/d/1gxwJJstV7HaCpvN-Std5n4XWdwEwdrTQ/view
