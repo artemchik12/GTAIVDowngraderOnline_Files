@@ -2,7 +2,7 @@
 # Format: TYPE|VERSION|FILENAME|FILESIZE (In Bytes)|NEEDS_TO_BE_DECRYPTED|USE_GOOGLE_DOWNLOADER|URL
 # Example: RADIO_DOWNGRADE|1070|LegacyRadioDowngrade.zip|690261329 (= 658 MB)|0|1|Url...
 
-GAME_DOWNGRADE|1040|1040.zip|35267641|1|1|https://drive.google.com/file/d/1HxJ0CKFHtovmu3qyhULSspjTpv-LO3j_/view?usp=sharing
+GAME_DOWNGRADE|1040|1040.zip|35267641|1|0|https://download1080.mediafire.com/5kgsw6z608ug/19z3wn8tlm4sye7/_1040.zip
 GAME_DOWNGRADE|1070|1070.zip|89712349|1|1|https://drive.google.com/file/d/1XqhbO-xW_1E_FLbJc_GKjAdvt2D2Wad3/view?usp=sharing
 GAME_DOWNGRADE|1080|1080.zip|89741442|1|1|https://drive.google.com/file/d/1EPI4idVIdiDKMfk7fE-e8Ov9qo3wW7Qy/view?usp=sharing
 
