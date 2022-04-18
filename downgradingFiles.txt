@@ -6,8 +6,8 @@ GAME_DOWNGRADE|1040|1040.zip|35267641|0|0|https://download1642.mediafire.com/h6g
 GAME_DOWNGRADE|1070|1070.zip|89712349|0|0|https://download1649.mediafire.com/nipz5nrz5jog/kc94j2nhrgiv0cj/_1070.zip
 GAME_DOWNGRADE|1080|1080.zip|89741442|0|0|https://download1323.mediafire.com/i78uwas1jpkg/sbqrwmcec7cxvtb/_1080.zip
 
-RADIO_DOWNGRADE|ALL|LegacyRadioDowngrader.zip|690261329|0|0|https://download852.mediafire.com/rgxrmcrkev0g/blysw8fa7l0rgia/LegacyRadioDowngrader.zip
-RADIO_DOWNGRADE|ALL|SneedsRadioDowngrader.zip|719170076|0|0|https://download1653.mediafire.com/4aohiy3qchfg/viwpaad2s2qbgbn/SneedsRadioDowngrader.zip
+RADIO_DOWNGRADE|ALL|LegacyRadioDowngrader.zip|690261329|0|0|https://download852.mediafire.com/i9junlqd25qg/blysw8fa7l0rgia/LegacyRadioDowngrader.zip
+RADIO_DOWNGRADE|ALL|SneedsRadioDowngrader.zip|719170076|0|0|https://download1653.mediafire.com/34j0yrpaiosg/viwpaad2s2qbgbn/SneedsRadioDowngrader.zip
 RADIO_DOWNGRADE|ALL|WithNewVladivostok.zip|596904|0|0|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/WithNewVladivostok.zip
 RADIO_DOWNGRADE|ALL|WithoutNewVladivostok.zip|594735|0|0|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/WithoutNewVladivostok.zip
 RADIO_DOWNGRADE|ALL|EpisodeOnlyMusicCE.zip|67132|0|0|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/EpisodeOnlyMusicCE.zip
