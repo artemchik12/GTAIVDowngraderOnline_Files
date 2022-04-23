@@ -2,9 +2,9 @@
 # Format: TYPE|VERSION|FILENAME|FILESIZE (In Bytes)|NEEDS_TO_BE_DECRYPTED|USE_GOOGLE_DOWNLOADER|URL
 # Example: RADIO_DOWNGRADE|1070|LegacyRadioDowngrade.zip|690261329 (= 658 MB)|0|1|Url...
 
-GAME_DOWNGRADE|1040|1040.zip|35267641|0|0|https://download1642.mediafire.com/h6g2kzmsrikg/hjlxxfgo94uftvy/_1040.zip
-GAME_DOWNGRADE|1070|1070.zip|89712349|0|0|https://download1649.mediafire.com/nipz5nrz5jog/kc94j2nhrgiv0cj/_1070.zip
-GAME_DOWNGRADE|1080|1080.zip|89741442|0|0|https://download1323.mediafire.com/i78uwas1jpkg/sbqrwmcec7cxvtb/_1080.zip
+GAME_DOWNGRADE|1040|1040.zip|35267641|0|0|https://download1642.mediafire.com/qjzel6z9hm2g/yknnu0mgy5oguwr/_1040.zip
+GAME_DOWNGRADE|1070|1070.zip|89712349|0|0|https://download1649.mediafire.com/g9xuvwo4m5eg/6zo4uhdrje3zet2/_1070.zip
+GAME_DOWNGRADE|1080|1080.zip|89741442|0|0|https://download1323.mediafire.com/sv9xysi7zjfg/oinnpx9wp3lgsh0/_1080.zip
 
 RADIO_DOWNGRADE|ALL|LegacyRadioDowngrader.zip|690261329|0|0|https://download852.mediafire.com/i9junlqd25qg/blysw8fa7l0rgia/LegacyRadioDowngrader.zip
 RADIO_DOWNGRADE|ALL|SneedsRadioDowngrader.zip|719170076|0|0|https://download1653.mediafire.com/34j0yrpaiosg/viwpaad2s2qbgbn/SneedsRadioDowngrader.zip
