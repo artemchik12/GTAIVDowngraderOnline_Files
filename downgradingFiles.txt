@@ -2,12 +2,12 @@
 # Format: TYPE|VERSION|FILENAME|FILESIZE (In Bytes)|NEEDS_TO_BE_DECRYPTED|USE_GOOGLE_DOWNLOADER|URL
 # Example: RADIO_DOWNGRADE|1070|LegacyRadioDowngrade.zip|690261329 (= 658 MB)|0|1|Url...
 
-GAME_DOWNGRADE|1040|1040.zip|35267641|0|0|
-GAME_DOWNGRADE|1070|1070.zip|89712349|0|0|
-GAME_DOWNGRADE|1080|1080.zip|89741442|0|0|
+GAME_DOWNGRADE|1040|1040.zip|35267641|0|0|https://public.am.files.1drv.com/y4m4PJN0WhaNACAZPntKwVf3qrkJ_gMZ8cA_H062eKezLmp01v-Tq1sDDsNTK8rwF0TDHdn1-MUti36KIh7IzCTDbKzUG3PVHbNuwj8gWlnC3lvSZ5TnZxWp9ub5IUpLfFcXoytnDeSMT1RgkWIG_z0sabRub21vse110RN3BbfYHhUsNM_tpT28GwLKRRpPaNGO7aSQEezu7-MpKGa1tyyJyLQYdab1F7JM1W6Ae7pANY
+GAME_DOWNGRADE|1070|1070.zip|89712349|0|0|https://public.am.files.1drv.com/y4m5eExKj9IOEq8aVyLFiZQlYZaMfZzd17qHLm8rh9Eme1sqRTUcdu3vHr0to3htM3jzevcpFug_JxsAPn0JJcQVNQE0LTAlBZrQz3zBaj8YFnM2I2l9x5WYYID9h5KisJOy4zxdNMyTT0W6O977VSe28jJA0qb6ims_-4cWjdcIpU8aQYvEpyAI2OJ7PFlVoC8_4nYOBDPcmVXTomiocu7DAQ_K6TxbVbWVyjjQBEhSMc
+GAME_DOWNGRADE|1080|1080.zip|89741442|0|0|https://public.am.files.1drv.com/y4mV-AIMg7OoLr_u073Oe-moaH4rTJ2yNUGbHbOoS2jF3wt_0G3kWxWLYDgnHx5P2DYe4U8n7px3PpfCBTlCXuXbreysh8lQgF1iw0cZsdUnCNuQ340RmckY8xUN1bvtvqHjjtqhZypdM-ibWK4mAUic-dVtqg2GbgLhQJLqwWkg8SUcQg2r2bI2S17JuNbfkbcvPqunaFkSltri7b3Pr8--gppQhiantsmsmrt8KFgsa0
 
-RADIO_DOWNGRADE|ALL|LegacyRadioDowngrader.zip|690261329|0|0|
-RADIO_DOWNGRADE|ALL|SneedsRadioDowngrader.zip|719170076|0|0|
+RADIO_DOWNGRADE|ALL|LegacyRadioDowngrader.zip|690261329|0|0|https://public.am.files.1drv.com/y4mrH8sjkXF1tEUFCLV13EFu7-PyplrJg0kxtJuVFynpsO9rlPqDTxWptWOIHbXnxPvT7Yy1D0tv2Ewt1zqkuonYz-84mLM1YCRCNiO18-B26oiG3GpcFGyN_B94s7JX6cb7JGdloIB8aqo4HhaCG_fXYyNFBz66QoPKi9_hkS_e1AWIwZPgsyNoluy89C-xpTN5V6inGno6HAEKOcMXlqeBgh7Dp4TGNEceFVRnVAg7Nw
+RADIO_DOWNGRADE|ALL|SneedsRadioDowngrader.zip|719170076|0|0|https://public.am.files.1drv.com/y4mrZQY2iHxaRKuY6-XvCrTq5azvfKR-3uIuXD-0pTMSxw7EzKMuLjzbAzvwK5uLRzS2kSFOBA0HcBBloEytlZFfPfhWcZTVREHeYa7p__x2Zh6Z84Ra4LGHi13YJx-xPr8CrTvk3M_DeM8wVFMdQWIDrjbtZQi38BE4o25o1iVTLJjZ8hxkzJe249oQfEwewrXbcjnnEyJAcPIhFRI-rfYWWDzV982dTHD48_XKuxf2F0
 
 RADIO_DOWNGRADE|ALL|WithNewVladivostok.zip|596904|0|0|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/WithNewVladivostok.zip
 RADIO_DOWNGRADE|ALL|WithoutNewVladivostok.zip|594735|0|0|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/WithoutNewVladivostok.zip
