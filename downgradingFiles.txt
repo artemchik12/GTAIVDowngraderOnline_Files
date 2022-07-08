@@ -1,6 +1,6 @@
 # Download links for main downgrading files.
 # Format: TYPE|VERSION|FILENAME|FILESIZE (In Bytes)|URL
-# Example: RADIO_DOWNGRADE|1070|LegacyRadioDowngrade.zip|690261329 (= 658 MB)|0|1|Url...
+# Example: RADIO_DOWNGRADE|1070|LegacyRadioDowngrade.zip|690261329 (= 658 MB)Url...
 
 # GAME_DOWNGRADE|1040|1040.zip|35267641|https://public.am.files.1drv.com/y4m4PJN0WhaNACAZPntKwVf3qrkJ_gMZ8cA_H062eKezLmp01v-Tq1sDDsNTK8rwF0TDHdn1-MUti36KIh7IzCTDbKzUG3PVHbNuwj8gWlnC3lvSZ5TnZxWp9ub5IUpLfFcXoytnDeSMT1RgkWIG_z0sabRub21vse110RN3BbfYHhUsNM_tpT28GwLKRRpPaNGO7aSQEezu7-MpKGa1tyyJyLQYdab1F7JM1W6Ae7pANY
 # GAME_DOWNGRADE|1070|1070.zip|89712349|https://public.am.files.1drv.com/y4m5eExKj9IOEq8aVyLFiZQlYZaMfZzd17qHLm8rh9Eme1sqRTUcdu3vHr0to3htM3jzevcpFug_JxsAPn0JJcQVNQE0LTAlBZrQz3zBaj8YFnM2I2l9x5WYYID9h5KisJOy4zxdNMyTT0W6O977VSe28jJA0qb6ims_-4cWjdcIpU8aQYvEpyAI2OJ7PFlVoC8_4nYOBDPcmVXTomiocu7DAQ_K6TxbVbWVyjjQBEhSMc
