@@ -2,7 +2,7 @@
 # Format: IsASILoader|IsScriptHook|IsScriptHookHook|IsScriptHookDotNet|RequiresASILoader|RequiresScriptHook|RequiresScriptHookDotNet|CompatibleWithGFWL|CheckedByDefault|FileSize (In Bytes)|ForVersion|Filename|Name|Description|DownloadLink
 # Important: The description shouldn't include a "|" char because this would fuck up the parsing in the GTA IV Downgrader.
 
-0|0|0|0|1|0|0|1|0|62704|1070,1080|ColAccel.zip|ColAccel|ColAccel is a .asi plugin for GTA IV and EFLC which creates a 'colCache.dat' file on the first load, containing all the data actually used by the game from the collision meshes and accelerating your game load time by 50% or more.|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ColAccel.zip
+0|0|0|0|1|0|0|1|0|62704|1070,1080|ColAccel.zip|ColAccel|ColAccel is a .asi plugin for GTA IV and EFLC which creates a 'colCache.dat' file on the first load, containing all the data actually used by the game from the collision meshes and accelerating your game load time by 50% or more. WARNING: ColAccel could cause memory issues. If you have problems like disappearing world, try to remove this mod first.|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ColAccel.zip
 
 0|0|0|0|1|0|0|1|0|131957|1070,1080|FusionFix.zip|FusionFix|Fixes issues with Recoil and limits the FPS. FPS limitations are to reduce mission issues.|https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/FusionFix.zip
 
