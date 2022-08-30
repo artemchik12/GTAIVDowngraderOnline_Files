@@ -1,6 +1,8 @@
 [
   {
     "Version": "1.2.0.43",
-    "Hash": "f16300aef558550ac5be2be2cfb54b28"
+    "Hashes": [
+      "f16300aef558550ac5be2be2cfb54b28"
+    ],
   }
 ]
