@@ -130,7 +130,7 @@
     "RequiresScriptHook": false,
     "RequiresScriptHookDotNet": false,
     "CompatibleWithGFWL": false,
-    "ShowInDowngrader": false,
+    "ShowInDowngrader": true,
     "CheckedByDefault": true,
     "FileName": "xlive.zip",
     "FileSize": 1083425,
@@ -140,6 +140,26 @@
     "Title": "xlive",
     "Description": "Recommended ASI Loader that also disables xlive (GFWL). An ASI Loader is required for mods such as ZolikaPatch.",
     "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/xlive.zip"
+  },
+  {
+    "IsASILoader": true,
+    "IsScriptHook": false,
+    "IsScriptHookHook": false,
+    "IsScriptHookDotNet": false,
+    "RequiresASILoader": false,
+    "RequiresScriptHook": false,
+    "RequiresScriptHookDotNet": false,
+    "CompatibleWithGFWL": true,
+    "ShowInDowngrader": true,
+    "CheckedByDefault": true,
+    "FileName": "dsound.zip",
+    "FileSize": 49486,
+    "ForVersions": [
+      3
+    ],
+    "Title": "dsound",
+    "Description": "ASI Loader that is compatible with GFWL. An ASI Loader is required for mods such as ZolikaPatch.",
+    "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/dsound.zip"
   },
   {
     "IsASILoader": false,
