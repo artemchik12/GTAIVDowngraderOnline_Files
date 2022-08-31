@@ -195,9 +195,10 @@
     "FileName": "ZMenuIV_GFWL.zip",
     "FileSize": 857678,
     "ForVersions": [
-      3
+      1,
+      0
     ],
-    "Title": "ZMenuIV v22.08.29.1 (Compatible with GFWL)",
+    "Title": "ZMenuIV v22.08.29.2 (Compatible with GFWL)",
     "Description": "A great trainer with many features such as object/vehicle/ped spawning, teleporting, first person, vehicle tuning, built in SCO Loader, Chaos Mod (With Twitch integration), Ped/Car Recording, Memory Editing and much much more! Created by Zolika1351.",
     "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ZMenuIV_GFWL.zip"
   },
