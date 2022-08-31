@@ -189,6 +189,26 @@
     "RequiresASILoader": true,
     "RequiresScriptHook": false,
     "RequiresScriptHookDotNet": false,
+    "CompatibleWithGFWL": true,
+    "ShowInDowngrader": true,
+    "CheckedByDefault": false,
+    "FileName": "ZMenuIV_GFWL.zip",
+    "FileSize": 857678,
+    "ForVersions": [
+      3
+    ],
+    "Title": "ZMenuIV v22.08.29.1 (Compatible with GFWL)",
+    "Description": "A great trainer with many features such as object/vehicle/ped spawning, teleporting, first person, vehicle tuning, built in SCO Loader, Chaos Mod (With Twitch integration), Ped/Car Recording, Memory Editing and much much more! Created by Zolika1351.",
+    "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ZMenuIV_GFWL.zip"
+  },
+  {
+    "IsASILoader": false,
+    "IsScriptHook": false,
+    "IsScriptHookHook": false,
+    "IsScriptHookDotNet": false,
+    "RequiresASILoader": true,
+    "RequiresScriptHook": false,
+    "RequiresScriptHookDotNet": false,
     "CompatibleWithGFWL": false,
     "ShowInDowngrader": true,
     "CheckedByDefault": true,
@@ -201,6 +221,27 @@
     "Title": "ZolikaPatch v6.9.4.20",
     "Description": "This mod aims to fix & improve various things in GTA IV, such as restoring vehicle shadows in the Booth Tunnel and heli spotlights, removing the mod-only lobby seperation from 1.0.7.0, fixing VRAM issues on patch 7 and below, and removing the requirement to log into Social Club to play Multiplayer.",
     "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ZolikaPatch.zip"
+  },
+  {
+    "IsASILoader": false,
+    "IsScriptHook": false,
+    "IsScriptHookHook": false,
+    "IsScriptHookDotNet": false,
+    "RequiresASILoader": true,
+    "RequiresScriptHook": false,
+    "RequiresScriptHookDotNet": false,
+    "CompatibleWithGFWL": true,
+    "ShowInDowngrader": true,
+    "CheckedByDefault": true,
+    "FileName": "ZolikaPatch_GFWL.zip",
+    "FileSize": 558969,
+    "ForVersions": [
+      1,
+      0
+    ],
+    "Title": "ZolikaPatch v6.9.4.20 (Configuration file optimized for GFWL)",
+    "Description": "This mod aims to fix & improve various things in GTA IV, such as restoring vehicle shadows in the Booth Tunnel and heli spotlights, removing the mod-only lobby seperation from 1.0.7.0, fixing VRAM issues on patch 7 and below, and removing the requirement to log into Social Club to play Multiplayer.",
+    "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ZolikaPatch_GFWL.zip"
   },
   {
     "IsASILoader": false,
