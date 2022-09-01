@@ -21,6 +21,34 @@
     "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/EpisodeOnlyMusicCE.zip"
   },
   {
+    "FileName": "gfwlivesetup.exe",
+    "FileSize": 642712,
+    "Type": "REDISTRIBUTABLES",
+    "ForVersion": "ALL",
+    "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/GFWL/gfwlivesetup.exe"
+  },
+  {
+    "FileName": "wllogin_32.msi",
+    "FileSize": 4649472,
+    "Type": "REDISTRIBUTABLES",
+    "ForVersion": "ALL",
+    "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/GFWL/wllogin_32.msi"
+  },
+  {
+    "FileName": "wllogin_64.msi",
+    "FileSize": 6575616,
+    "Type": "REDISTRIBUTABLES",
+    "ForVersion": "ALL",
+    "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/GFWL/wllogin_64.msi"
+  },
+  {
+    "FileName": "xliveredist.msi",
+    "FileSize": 21594112,
+    "Type": "REDISTRIBUTABLES",
+    "ForVersion": "ALL",
+    "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/GFWL/xliveredist.msi"
+  },
+  {
     "FileName": "directx_Jun2010_redist.exe",
     "FileSize": 100275120,
     "Type": "REDISTRIBUTABLES",
