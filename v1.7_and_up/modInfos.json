@@ -173,7 +173,7 @@
     "ShowInDowngrader": true,
     "CheckedByDefault": false,
     "FileName": "ZMenuIV.zip",
-    "FileSize": 857678,
+    "FileSize": 5152224,
     "ForVersions": [
       3
     ],
@@ -193,7 +193,7 @@
     "ShowInDowngrader": true,
     "CheckedByDefault": false,
     "FileName": "ZMenuIV_GFWL.zip",
-    "FileSize": 857678,
+    "FileSize": 5152224,
     "ForVersions": [
       1,
       0
@@ -214,7 +214,7 @@
     "ShowInDowngrader": true,
     "CheckedByDefault": true,
     "FileName": "ZolikaPatch.zip",
-    "FileSize": 558969,
+    "FileSize": 535066,
     "ForVersions": [
       1,
       0
@@ -235,7 +235,7 @@
     "ShowInDowngrader": true,
     "CheckedByDefault": true,
     "FileName": "ZolikaPatch_GFWL.zip",
-    "FileSize": 558969,
+    "FileSize": 535066,
     "ForVersions": [
       1,
       0
@@ -256,7 +256,7 @@
     "ShowInDowngrader": true,
     "CheckedByDefault": true,
     "FileName": "ZolikaPatch_1040.zip",
-    "FileSize": 559134,
+    "FileSize": 535066,
     "ForVersions": [
       2
     ],
