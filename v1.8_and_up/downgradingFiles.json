@@ -2,7 +2,7 @@
   {
     "FileName": "1040.zip",
     "FileSize": 35352487,
-    "NeedsToBeDecrypted": true,
+    "NeedsToBeDecompressed": true,
     "Type": "GAME_DOWNGRADE",
     "DownloadURL": null,
     "GoogleDriveID": "1S0wsDjYf-7O9ik19xJj9e2UaDmyVBASD"
@@ -10,7 +10,7 @@
   {
     "FileName": "1070.zip",
     "FileSize": 85713611,
-    "NeedsToBeDecrypted": true,
+    "NeedsToBeDecompressed": true,
     "Type": "GAME_DOWNGRADE",
     "DownloadURL": null,
     "GoogleDriveID": "17ydxz9BT7S90BEo88vzinlmNdMwjgxP7"
@@ -18,7 +18,7 @@
   {
     "FileName": "1080.zip",
     "FileSize": 85724117,
-    "NeedsToBeDecrypted": true,
+    "NeedsToBeDecompressed": true,
     "Type": "GAME_DOWNGRADE",
     "DownloadURL": null,
     "GoogleDriveID": "1YU9iWAozAzAHQp8ZUMIz3r5MfnhNIQuJ"
@@ -26,7 +26,7 @@
   {
     "FileName": "LegacyRadioDowngrader.zip",
     "FileSize": 690261329,
-    "NeedsToBeDecrypted": false,
+    "NeedsToBeDecompressed": false,
     "Type": "RADIO_DOWNGRADE",
     "DownloadURL": null,
     "GoogleDriveID": "d/16TEy0uPvbYAfKh7lyZqOhD86viiqs9GQ"
@@ -34,7 +34,7 @@
   {
     "FileName": "SneedsRadioDowngrader.zip",
     "FileSize": 719170076,
-    "NeedsToBeDecrypted": false,
+    "NeedsToBeDecompressed": false,
     "Type": "RADIO_DOWNGRADE",
     "DownloadURL": null,
     "GoogleDriveID": "1v5SvRNNmkCZDEplZh3yufed1hfuL7Ei3"
@@ -42,7 +42,7 @@
   {
     "FileName": "WithNewVladivostok.zip",
     "FileSize": 596904,
-    "NeedsToBeDecrypted": false,
+    "NeedsToBeDecompressed": false,
     "Type": "RADIO_DOWNGRADE",
     "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/WithNewVladivostok.zip",
     "GoogleDriveID": null
@@ -50,7 +50,7 @@
   {
     "FileName": "WithoutNewVladivostok.zip",
     "FileSize": 594735,
-    "NeedsToBeDecrypted": false,
+    "NeedsToBeDecompressed": false,
     "Type": "RADIO_DOWNGRADE",
     "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/WithoutNewVladivostok.zip",
     "GoogleDriveID": null
@@ -58,7 +58,7 @@
   {
     "FileName": "EpisodeOnlyMusicCE.zip",
     "FileSize": 67132,
-    "NeedsToBeDecrypted": false,
+    "NeedsToBeDecompressed": false,
     "Type": "RADIO_DOWNGRADE",
     "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/EpisodeOnlyMusicCE.zip",
     "GoogleDriveID": null
@@ -66,7 +66,7 @@
   {
     "FileName": "gfwlivesetup.exe",
     "FileSize": 642712,
-    "NeedsToBeDecrypted": false,
+    "NeedsToBeDecompressed": false,
     "Type": "REDISTRIBUTABLES",
     "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/GFWL/gfwlivesetup.exe",
     "GoogleDriveID": null
@@ -74,7 +74,7 @@
   {
     "FileName": "wllogin_32.msi",
     "FileSize": 4649472,
-    "NeedsToBeDecrypted": false,
+    "NeedsToBeDecompressed": false,
     "Type": "REDISTRIBUTABLES",
     "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/GFWL/wllogin_32.msi",
     "GoogleDriveID": null
@@ -82,7 +82,7 @@
   {
     "FileName": "wllogin_64.msi",
     "FileSize": 6575616,
-    "NeedsToBeDecrypted": false,
+    "NeedsToBeDecompressed": false,
     "Type": "REDISTRIBUTABLES",
     "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/GFWL/wllogin_64.msi",
     "GoogleDriveID": null
@@ -90,7 +90,7 @@
   {
     "FileName": "xliveredist.msi",
     "FileSize": 21594112,
-    "NeedsToBeDecrypted": false,
+    "NeedsToBeDecompressed": false,
     "Type": "REDISTRIBUTABLES",
     "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/GFWL/xliveredist.msi",
     "GoogleDriveID": null
@@ -98,7 +98,7 @@
   {
     "FileName": "directx_Jun2010_redist.exe",
     "FileSize": 100275120,
-    "NeedsToBeDecrypted": false,
+    "NeedsToBeDecompressed": false,
     "Type": "REDISTRIBUTABLES",
     "DownloadURL": "https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe",
     "GoogleDriveID": null
@@ -106,7 +106,7 @@
   {
     "FileName": "vcredist_x86.exe",
     "FileSize": 2723264,
-    "NeedsToBeDecrypted": false,
+    "NeedsToBeDecompressed": false,
     "Type": "REDISTRIBUTABLES",
     "DownloadURL": "https://download.microsoft.com/download/8/B/4/8B42259F-5D70-43F4-AC2E-4B208FD8D66A/vcredist_x86.EXE",
     "GoogleDriveID": null
