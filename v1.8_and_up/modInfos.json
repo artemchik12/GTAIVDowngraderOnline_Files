@@ -28,7 +28,7 @@
     "RequiresASILoader": true,
     "RequiresScriptHook": false,
     "RequiresScriptHookDotNet": false,
-    "CompatibleWithGFWL": true,
+    "CompatibleWithGFWL": false,
     "ShowInDowngrader": true,
     "CheckedByDefault": false,
     "FileName": "FusionFix.zip",
@@ -40,6 +40,27 @@
     "Title": "FusionFix",
     "Description": "Fixes issues with Recoil and limits the FPS. FPS limitations are to reduce mission issues.",
     "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/FusionFix.zip"
+  },
+  {
+    "IsASILoader": false,
+    "IsScriptHook": false,
+    "IsScriptHookHook": false,
+    "IsScriptHookDotNet": false,
+    "RequiresASILoader": true,
+    "RequiresScriptHook": false,
+    "RequiresScriptHookDotNet": false,
+    "CompatibleWithGFWL": true,
+    "ShowInDowngrader": true,
+    "CheckedByDefault": false,
+    "FileName": "FusionFix.zip",
+    "FileSize": 4135521,
+    "ForVersions": [
+      1,
+      0
+    ],
+    "Title": "FusionFix",
+    "Description": "Fixes issues with Recoil and limits the FPS. FPS limitations are to reduce mission issues.",
+    "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/FusionFix_GFWL.zip"
   },
   {
     "IsASILoader": false,
