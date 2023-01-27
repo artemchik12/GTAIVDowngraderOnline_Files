@@ -28,7 +28,7 @@
     "RequiresASILoader": true,
     "RequiresScriptHook": false,
     "RequiresScriptHookDotNet": false,
-    "CompatibleWithGFWL": false,
+    "CompatibleWithGFWL": true,
     "ShowInDowngrader": true,
     "CheckedByDefault": false,
     "FileName": "FusionFix.zip",
