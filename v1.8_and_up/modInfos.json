@@ -50,7 +50,7 @@
     "RequiresScriptHook": false,
     "RequiresScriptHookDotNet": false,
     "CompatibleWithGFWL": true,
-    "ShowInDowngrader": true,
+    "ShowInDowngrader": false,
     "CheckedByDefault": false,
     "FileName": "FusionFix_GFWL.zip",
     "FileSize": 4135521,
