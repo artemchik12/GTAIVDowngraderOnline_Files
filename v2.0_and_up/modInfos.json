@@ -101,8 +101,8 @@
     ],
 	"OptionalComponents": null,
     "Title": "ColAccel",
-    "Description": "ColAccel is a .asi plugin for GTA IV and EFLC which creates a 'colCache.dat' file on the first load, containing all the data actually used by the game from the collision meshes and accelerating your game load time by 50% or more. WARNING: ColAccel could cause memory issues. If you have problems like disappearing world, try to remove this mod first.",
-    "WarningMessage": null,
+    "Description": "ColAccel is a .asi plugin for GTA IV and EFLC which creates a 'colCache.dat' file on the first load, containing all the data actually used by the game from the collision meshes and accelerating your game load time by 50% or more.",
+    "WarningMessage": "This mod could cause memory issues.\nIf you have problems like disappearing world, try to remove this mod first.",
 	"OfficialModWebPage": "https://gtaforums.com/topic/676844-colaccel-reduce-loading-time-by-50",
 	"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ColAccel.zip"
   },
