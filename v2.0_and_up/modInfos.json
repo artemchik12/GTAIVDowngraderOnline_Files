@@ -4,6 +4,64 @@
     "IsScriptHook": false,
     "IsScriptHookHook": false,
     "IsScriptHookDotNet": false,
+    "RequiresASILoader": false,
+    "RequiresScriptHook": false,
+    "RequiresScriptHookDotNet": false,
+	"RequiresIVSDKDotNet": false,
+    "CompatibleWithGFWL": true,
+    "ShowInDowngrader": true,
+    "CheckedByDefault": false,
+    "FileName": "ShaderFixesCollection_Main.zip",
+    "FileSize": 679397,
+    "ForVersions": [
+		0,
+		1
+    ],
+	"OptionalComponents": [
+		{
+			"CheckedByDefault": false,
+			"FileName": "ShaderFixesCollection_Addon_ConsoleGamma.zip",
+			"FileSize": 32255,
+			"Title": "Console Gamma",
+			"Description": "Adds console-like gamma to the game.",
+			"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ShaderFixesCollection/ShaderFixesCollection_Addon_ConsoleGamma.zip"
+		},
+		{
+			"CheckedByDefault": false,
+			"FileName": "ShaderFixesCollection_Addon_ConsoleTimecycle.zip",
+			"FileSize": 20821,
+			"Title": "Console Timecycle",
+			"Description": "Adds the Timecycle from the console version of IV to the game.",
+			"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ShaderFixesCollection/ShaderFixesCollection_Addon_ConsoleTimecycle.zip"
+		},
+		{
+			"CheckedByDefault": false,
+			"FileName": "ShaderFixesCollection_Addon_ConsoleVehicleReflections.zip",
+			"FileSize": 6783,
+			"Title": "Console Vehicle Reflections",
+			"Description": "Adds console-like vehicle reflections to the game.",
+			"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ShaderFixesCollection/ShaderFixesCollection_Addon_ConsoleVehicleReflections.zip"
+		},
+		{
+			"CheckedByDefault": false,
+			"FileName": "ShaderFixesCollection_Addon_HQStaticShadows.zip",
+			"FileSize": 36641,
+			"Title": "HQ Static Shadows",
+			"Description": "Adds high quality static shadows to the game.",
+			"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ShaderFixesCollection/ShaderFixesCollection_Addon_HQStaticShadows.zip"
+		}
+	],
+    "Title": "Shader Fixes Collection v103",
+    "Description": "Various shader fixes and improvements for GTA IV 1.0.7.0, 1.0.8.0 and Complete Edition. The goal is to restore and fix everything from the Xbox 360 version of the game. For more information, check out the project GitHub page.",
+    "WarningMessage": null,
+	"OfficialModWebPage": "https://github.com/Parallellines0451/GTAIV.ShaderFixesCollection",
+	"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ShaderFixesCollection/ShaderFixesCollection_Main.zip"
+  },
+  {
+    "IsASILoader": false,
+    "IsScriptHook": false,
+    "IsScriptHookHook": false,
+    "IsScriptHookDotNet": false,
     "RequiresASILoader": true,
     "RequiresScriptHook": false,
     "RequiresScriptHookDotNet": false,
@@ -16,16 +74,7 @@
     "ForVersions": [
 		3
     ],
-	"OptionalComponents": [
-		{
-			"CheckedByDefault": false,
-			"FileName": "ColAccel.zip",
-			"FileSize": 62704,
-			"Title": "ColAccel",
-			"Description": "This is a test",
-			"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ColAccel.zip"
-		}
-	],
+	"OptionalComponents": null,
     "Title": "No Cursor Escape",
     "Description": "This mod will prevent the cursor from escaping the main monitor where GTA IV is opened, which will prevent the cursor from going onto your second screen and mess around with opened programs like web browsers.",
     "WarningMessage": null,
@@ -249,7 +298,7 @@
     "Title": "dsound",
     "Description": "ASI Loader that is compatible with GFWL. An ASI Loader is required for mods such as ZolikaPatch.",
     "WarningMessage": null,
-	"OfficialModWebPage": null,
+	"OfficialModWebPage": "http://www.dev-c.com/gtaiv/asiloader",
 	"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/dsound.zip"
   },
   {
