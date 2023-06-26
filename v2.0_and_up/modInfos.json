@@ -19,11 +19,11 @@
 	"OptionalComponents": [
 		{
 			"CheckedByDefault": false,
-			"FileName": "Test.zip",
-			"FileSize": 0,
-			"Title": "Test",
+			"FileName": "ColAccel.zip",
+			"FileSize": 62704,
+			"Title": "ColAccel",
 			"Description": "This is a test",
-			"DownloadURL": ""
+			"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ColAccel.zip"
 		}
 	],
     "Title": "No Cursor Escape",
