@@ -10,6 +10,26 @@
     "CompatibleWithGFWL": true,
     "ShowInDowngrader": true,
     "CheckedByDefault": false,
+    "FileName": "NoCursorEscape.zip",
+    "FileSize": 111953,
+    "ForVersions": [
+		3
+    ],
+    "Title": "No Cursor Escape",
+    "Description": "This mod will prevent the cursor from escaping the main monitor where GTA IV is opened, which will prevent the cursor from going onto your second screen and mess around with opened programs like web browsers.",
+	"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/NoCursorEscape.zip"
+  },
+  {
+    "IsASILoader": false,
+    "IsScriptHook": false,
+    "IsScriptHookHook": false,
+    "IsScriptHookDotNet": false,
+    "RequiresASILoader": true,
+    "RequiresScriptHook": false,
+    "RequiresScriptHookDotNet": false,
+    "CompatibleWithGFWL": true,
+    "ShowInDowngrader": true,
+    "CheckedByDefault": false,
     "FileName": "ColAccel.zip",
     "FileSize": 62704,
     "ForVersions": [

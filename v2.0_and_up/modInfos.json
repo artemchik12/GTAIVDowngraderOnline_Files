@@ -7,6 +7,40 @@
     "RequiresASILoader": true,
     "RequiresScriptHook": false,
     "RequiresScriptHookDotNet": false,
+	"RequiresIVSDKDotNet": false,
+    "CompatibleWithGFWL": true,
+    "ShowInDowngrader": true,
+    "CheckedByDefault": false,
+    "FileName": "NoCursorEscape.zip",
+    "FileSize": 111953,
+    "ForVersions": [
+		3
+    ],
+	"OptionalComponents": [
+		{
+			"CheckedByDefault": false,
+			"FileName": "Test.zip",
+			"FileSize": 0,
+			"Title": "Test",
+			"Description": "This is a test",
+			"DownloadURL": ""
+		}
+	],
+    "Title": "No Cursor Escape",
+    "Description": "This mod will prevent the cursor from escaping the main monitor where GTA IV is opened, which will prevent the cursor from going onto your second screen and mess around with opened programs like web browsers.",
+    "WarningMessage": null,
+	"OfficialModWebPage": "https://gtaforums.com/topic/988909-itsclonkandres-workshop",
+	"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/NoCursorEscape.zip"
+  },
+  {
+    "IsASILoader": false,
+    "IsScriptHook": false,
+    "IsScriptHookHook": false,
+    "IsScriptHookDotNet": false,
+    "RequiresASILoader": true,
+    "RequiresScriptHook": false,
+    "RequiresScriptHookDotNet": false,
+	"RequiredIVSDKDotNet": false,
     "CompatibleWithGFWL": true,
     "ShowInDowngrader": true,
     "CheckedByDefault": false,
@@ -16,9 +50,11 @@
       1,
       0
     ],
+	"OptionalComponents": null,
     "Title": "ColAccel",
     "Description": "ColAccel is a .asi plugin for GTA IV and EFLC which creates a 'colCache.dat' file on the first load, containing all the data actually used by the game from the collision meshes and accelerating your game load time by 50% or more. WARNING: ColAccel could cause memory issues. If you have problems like disappearing world, try to remove this mod first.",
     "WarningMessage": null,
+	"OfficialModWebPage": "https://gtaforums.com/topic/676844-colaccel-reduce-loading-time-by-50",
 	"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ColAccel.zip"
   },
   {
@@ -29,6 +65,7 @@
     "RequiresASILoader": true,
     "RequiresScriptHook": false,
     "RequiresScriptHookDotNet": false,
+	"RequiredIVSDKDotNet": false,
     "CompatibleWithGFWL": true,
     "ShowInDowngrader": true,
     "CheckedByDefault": false,
@@ -38,9 +75,11 @@
       1,
       0
     ],
+	"OptionalComponents": null,
     "Title": "FusionFix",
     "Description": "Fixes issues with Recoil and limits the FPS. FPS limitations are to reduce mission issues.",
     "WarningMessage": null,
+	"OfficialModWebPage": "https://gtaforums.com/topic/934545-fusionfix",
 	"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/FusionFix.zip"
   },
   {
@@ -51,6 +90,7 @@
     "RequiresASILoader": true,
     "RequiresScriptHook": false,
     "RequiresScriptHookDotNet": false,
+	"RequiredIVSDKDotNet": false,
     "CompatibleWithGFWL": true,
     "ShowInDowngrader": false,
     "CheckedByDefault": false,
@@ -60,9 +100,11 @@
       1,
       0
     ],
+	"OptionalComponents": null,
     "Title": "FusionFix - GFWL",
     "Description": "Fixes issues with Recoil and limits the FPS. FPS limitations are to reduce mission issues.",
     "WarningMessage": null,
+	"OfficialModWebPage": "https://gtaforums.com/topic/934545-fusionfix",
 	"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/FusionFix_GFWL.zip"
   },
   {
@@ -73,6 +115,7 @@
     "RequiresASILoader": false,
     "RequiresScriptHook": false,
     "RequiresScriptHookDotNet": false,
+	"RequiredIVSDKDotNet": false,
     "CompatibleWithGFWL": true,
     "ShowInDowngrader": true,
     "CheckedByDefault": false,
@@ -81,9 +124,11 @@
     "ForVersions": [
       1
     ],
+	"OptionalComponents": null,
     "Title": "ScriptHook for 1.0.7.0",
     "Description": "ScriptHook is needed in order to run ASI scripts which were built using aru's Script Hook SDK.",
     "WarningMessage": null,
+	"OfficialModWebPage": "https://gtaforums.com/topic/946154-release-gtaiv-net-scripthook-v1718-support-for-gta-iv-1080-and-eflc-1130-by-arinc9-zolika1351",
 	"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ScriptHook_1070.zip"
   },
   {
@@ -94,6 +139,7 @@
     "RequiresASILoader": false,
     "RequiresScriptHook": false,
     "RequiresScriptHookDotNet": false,
+	"RequiredIVSDKDotNet": false,
     "CompatibleWithGFWL": true,
     "ShowInDowngrader": true,
     "CheckedByDefault": false,
@@ -102,9 +148,11 @@
     "ForVersions": [
       0
     ],
+	"OptionalComponents": null,
     "Title": "ScriptHook for 1.0.8.0",
     "Description": "ScriptHook is needed in order to run ASI scripts which were built using aru's Script Hook SDK.",
     "WarningMessage": null,
+	"OfficialModWebPage": "https://gtaforums.com/topic/946154-release-gtaiv-net-scripthook-v1718-support-for-gta-iv-1080-and-eflc-1130-by-arinc9-zolika1351",
 	"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ScriptHook_1080.zip"
   },
   {
@@ -115,6 +163,7 @@
     "RequiresASILoader": true,
     "RequiresScriptHook": false,
     "RequiresScriptHookDotNet": false,
+	"RequiredIVSDKDotNet": false,
     "CompatibleWithGFWL": true,
     "ShowInDowngrader": true,
     "CheckedByDefault": false,
@@ -123,9 +172,11 @@
     "ForVersions": [
       3
     ],
+	"OptionalComponents": null,
     "Title": "Simple Traffic Loader",
     "Description": "This mod fixes the famous taxi bug where only taxis spawn on the street. It refreshes the games memory with new vehicles you can specify in the SimpleTrafficLoader.txt file.",
     "WarningMessage": null,
+	"OfficialModWebPage": "https://gtaforums.com/topic/988909-itsclonkandres-workshop",
 	"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/SimpleTrafficLoader.zip"
   },
   {
@@ -136,17 +187,21 @@
     "RequiresASILoader": true,
     "RequiresScriptHook": false,
     "RequiresScriptHookDotNet": false,
+	"RequiredIVSDKDotNet": false,
     "CompatibleWithGFWL": false,
     "ShowInDowngrader": true,
     "CheckedByDefault": false,
     "FileName": "SteamAchievements.zip",
     "FileSize": 57395,
     "ForVersions": [
-      3
+      0,
+	  1
     ],
+	"OptionalComponents": null,
     "Title": "SteamAchievements",
     "Description": "This mod allows you to get achievements on steam with your downgraded copy of GTA IV.",
     "WarningMessage": null,
+	"OfficialModWebPage": "https://zolika1351.pages.dev/mods/ivsteamachievements",
 	"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/SteamAchievements.zip"
   },
   {
@@ -157,6 +212,7 @@
     "RequiresASILoader": false,
     "RequiresScriptHook": false,
     "RequiresScriptHookDotNet": false,
+	"RequiredIVSDKDotNet": false,
     "CompatibleWithGFWL": false,
     "ShowInDowngrader": true,
     "CheckedByDefault": true,
@@ -165,9 +221,11 @@
     "ForVersions": [
       3
     ],
+	"OptionalComponents": null,
     "Title": "xlive",
     "Description": "Recommended ASI Loader that also disables xlive (GFWL). An ASI Loader is required for mods such as ZolikaPatch.",
     "WarningMessage": null,
+	"OfficialModWebPage": "https://github.com/ThirteenAG/Ultimate-ASI-Loader",
 	"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/xlive.zip"
   },
   {
@@ -178,6 +236,7 @@
     "RequiresASILoader": false,
     "RequiresScriptHook": false,
     "RequiresScriptHookDotNet": false,
+	"RequiredIVSDKDotNet": false,
     "CompatibleWithGFWL": true,
     "ShowInDowngrader": true,
     "CheckedByDefault": true,
@@ -186,9 +245,11 @@
     "ForVersions": [
       3
     ],
+	"OptionalComponents": null,
     "Title": "dsound",
     "Description": "ASI Loader that is compatible with GFWL. An ASI Loader is required for mods such as ZolikaPatch.",
     "WarningMessage": null,
+	"OfficialModWebPage": null,
 	"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/dsound.zip"
   },
   {
@@ -199,6 +260,7 @@
     "RequiresASILoader": true,
     "RequiresScriptHook": false,
     "RequiresScriptHookDotNet": false,
+	"RequiredIVSDKDotNet": false,
     "CompatibleWithGFWL": false,
     "ShowInDowngrader": true,
     "CheckedByDefault": false,
@@ -207,9 +269,11 @@
     "ForVersions": [
       3
     ],
+	"OptionalComponents": null,
     "Title": "ZMenuIV v23.06.25.1",
     "Description": "A great trainer with many features such as object/vehicle/ped spawning, teleporting, first person, vehicle tuning, built in SCO Loader, Chaos Mod (With Twitch integration), Ped/Car Recording, Memory Editing and much much more! Created by Zolika1351.",
     "WarningMessage": null,
+	"OfficialModWebPage": "https://zolika1351.pages.dev/mods/ivmenu",
 	"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ZMenuIV.zip"
   },
   {
@@ -220,6 +284,7 @@
     "RequiresASILoader": true,
     "RequiresScriptHook": false,
     "RequiresScriptHookDotNet": false,
+	"RequiredIVSDKDotNet": false,
     "CompatibleWithGFWL": true,
     "ShowInDowngrader": true,
     "CheckedByDefault": false,
@@ -229,9 +294,11 @@
       1,
       0
     ],
+	"OptionalComponents": null,
     "Title": "ZMenuIV v23.06.25.2 (Compatible with GFWL)",
     "Description": "A great trainer with many features such as object/vehicle/ped spawning, teleporting, first person, vehicle tuning, built in SCO Loader, Chaos Mod (With Twitch integration), Ped/Car Recording, Memory Editing and much much more! Created by Zolika1351.",
     "WarningMessage": null,
+	"OfficialModWebPage": "https://zolika1351.pages.dev/mods/ivmenu",
 	"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ZMenuIV_GFWL.zip"
   },
   {
@@ -242,6 +309,7 @@
     "RequiresASILoader": true,
     "RequiresScriptHook": false,
     "RequiresScriptHookDotNet": false,
+	"RequiredIVSDKDotNet": false,
     "CompatibleWithGFWL": false,
     "ShowInDowngrader": true,
     "CheckedByDefault": true,
@@ -251,9 +319,11 @@
       1,
       0
     ],
+	"OptionalComponents": null,
     "Title": "ZolikaPatch v6.9.8.1",
     "Description": "This mod aims to fix & improve various things in GTA IV, such as restoring vehicle shadows in the Booth Tunnel and heli spotlights, removing the mod-only lobby seperation from 1.0.7.0, fixing VRAM issues on patch 7 and below, and removing the requirement to log into Social Club to play Multiplayer.",
     "WarningMessage": null,
+	"OfficialModWebPage": "https://zolika1351.pages.dev/mods/ivpatch",
 	"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ZolikaPatch.zip"
   },
   {
@@ -264,6 +334,7 @@
     "RequiresASILoader": true,
     "RequiresScriptHook": false,
     "RequiresScriptHookDotNet": false,
+	"RequiredIVSDKDotNet": false,
     "CompatibleWithGFWL": true,
     "ShowInDowngrader": true,
     "CheckedByDefault": true,
@@ -273,9 +344,11 @@
       1,
       0
     ],
+	"OptionalComponents": null,
     "Title": "ZolikaPatch v6.9.8.1 (Configuration file optimized for GFWL)",
     "Description": "This mod aims to fix & improve various things in GTA IV, such as restoring vehicle shadows in the Booth Tunnel and heli spotlights, removing the mod-only lobby seperation from 1.0.7.0, fixing VRAM issues on patch 7 and below, and removing the requirement to log into Social Club to play Multiplayer.",
     "WarningMessage": null,
+	"OfficialModWebPage": "https://zolika1351.pages.dev/mods/ivpatch",
 	"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ZolikaPatch_GFWL.zip"
   },
   {
@@ -286,6 +359,7 @@
     "RequiresASILoader": true,
     "RequiresScriptHook": false,
     "RequiresScriptHookDotNet": false,
+	"RequiredIVSDKDotNet": false,
     "CompatibleWithGFWL": false,
     "ShowInDowngrader": true,
     "CheckedByDefault": true,
@@ -294,9 +368,11 @@
     "ForVersions": [
       2
     ],
+	"OptionalComponents": null,
     "Title": "ZolikaPatch v6.9.8.1 (Configuration file optimized for 1.0.4.0)",
     "Description": "This mod aims to fix & improve various things in GTA IV, such as restoring vehicle shadows in the Booth Tunnel and heli spotlights, removing the mod-only lobby seperation from 1.0.7.0, fixing VRAM issues on patch 7 and below, and removing the requirement to log into Social Club to play Multiplayer.",
     "WarningMessage": null,
+	"OfficialModWebPage": "https://zolika1351.pages.dev/mods/ivpatch",
 	"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ZolikaPatch_1040.zip"
   }
 ]
