@@ -271,9 +271,9 @@
       3
     ],
 	"OptionalComponents": null,
-    "Title": "xlive",
+    "Title": "xliveless",
     "Description": "Recommended ASI Loader that also disables xlive (GFWL). An ASI Loader is required for mods such as ZolikaPatch.",
-    "WarningMessage": null,
+    "WarningMessage": "It is recommended to install this ASI loader. Mods won't work without one!",
 	"OfficialModWebPage": "https://github.com/ThirteenAG/Ultimate-ASI-Loader",
 	"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/xlive.zip"
   },
@@ -297,7 +297,7 @@
 	"OptionalComponents": null,
     "Title": "dsound",
     "Description": "ASI Loader that is compatible with GFWL. An ASI Loader is required for mods such as ZolikaPatch.",
-    "WarningMessage": null,
+    "WarningMessage": "It is recommended to install this ASI loader. Mods won't work without one!",
 	"OfficialModWebPage": "http://www.dev-c.com/gtaiv/asiloader",
 	"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/dsound.zip"
   },
@@ -371,7 +371,7 @@
 	"OptionalComponents": null,
     "Title": "ZolikaPatch v6.9.8.2",
     "Description": "This mod aims to fix & improve various things in GTA IV, such as restoring vehicle shadows in the Booth Tunnel and heli spotlights, removing the mod-only lobby seperation from 1.0.7.0, fixing VRAM issues on patch 7 and below, and removing the requirement to log into Social Club to play Multiplayer.",
-    "WarningMessage": null,
+    "WarningMessage": "This mod is absolutely recommended to install! Your game might not launch without this.",
 	"OfficialModWebPage": "https://zolika1351.pages.dev/mods/ivpatch",
 	"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ZolikaPatch.zip"
   },
@@ -396,7 +396,7 @@
 	"OptionalComponents": null,
     "Title": "ZolikaPatch v6.9.8.2 (Configuration file optimized for GFWL)",
     "Description": "This mod aims to fix & improve various things in GTA IV, such as restoring vehicle shadows in the Booth Tunnel and heli spotlights, removing the mod-only lobby seperation from 1.0.7.0, fixing VRAM issues on patch 7 and below, and removing the requirement to log into Social Club to play Multiplayer.",
-    "WarningMessage": null,
+    "WarningMessage": "This mod is absolutely recommended to install! Your game might not launch without this.",
 	"OfficialModWebPage": "https://zolika1351.pages.dev/mods/ivpatch",
 	"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ZolikaPatch_GFWL.zip"
   },
@@ -420,7 +420,7 @@
 	"OptionalComponents": null,
     "Title": "ZolikaPatch v6.9.8.2 (Configuration file optimized for 1.0.4.0)",
     "Description": "This mod aims to fix & improve various things in GTA IV, such as restoring vehicle shadows in the Booth Tunnel and heli spotlights, removing the mod-only lobby seperation from 1.0.7.0, fixing VRAM issues on patch 7 and below, and removing the requirement to log into Social Club to play Multiplayer.",
-    "WarningMessage": null,
+    "WarningMessage": "This mod is absolutely recommended to install! Your game might not launch without this.",
 	"OfficialModWebPage": "https://zolika1351.pages.dev/mods/ivpatch",
 	"DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/mods/ZolikaPatch_1040.zip"
   }
