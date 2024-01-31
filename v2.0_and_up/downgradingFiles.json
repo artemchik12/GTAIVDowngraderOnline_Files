@@ -4,35 +4,35 @@
     "FileSize": 35352487,
     "NeedsToBeDecompressed": false,
     "Type": "GAME_DOWNGRADE",
-    "DownloadURL": "ftp://195.201.179.80/IVDowngraderFiles/1040.zip"
+    "DownloadURL": "https://www.dropbox.com/scl/fi/mmzfukqsyzumq6dyz7y56/1040.zip?rlkey=bf2ckf167d7opyflgc9466g92&dl=1"
   },
   {
     "FileName": "1070.zip",
     "FileSize": 85713611,
     "NeedsToBeDecompressed": false,
     "Type": "GAME_DOWNGRADE",
-    "DownloadURL": "ftp://195.201.179.80/IVDowngraderFiles/1070.zip"
+    "DownloadURL": "https://www.dropbox.com/scl/fi/4vllumqoyjah8t5sfe6x3/1070.zip?rlkey=7ixpfbj82l51g9bbls0ihmbvc&dl=1"
   },
   {
     "FileName": "1080.zip",
     "FileSize": 85724117,
     "NeedsToBeDecompressed": false,
     "Type": "GAME_DOWNGRADE",
-    "DownloadURL": "ftp://195.201.179.80/IVDowngraderFiles/1080.zip"
+    "DownloadURL": "https://www.dropbox.com/scl/fi/uu9xx99omc69t6hryzs6g/1080.zip?rlkey=bfsctqgz7g1abqfrtrg01qaej&dl=1"
   },
   {
     "FileName": "LegacyRadioDowngrader.zip",
     "FileSize": 690261329,
     "NeedsToBeDecompressed": false,
     "Type": "RADIO_DOWNGRADE",
-    "DownloadURL": "ftp://195.201.179.80/IVDowngraderFiles/LegacyRadioDowngrader.zip"
+    "DownloadURL": "https://www.dropbox.com/scl/fi/2twxv1v8p7b6dp5fr8z5a/LegacyRadioDowngrader.zip?rlkey=ed3e4eejs4jb807am6ac7bj8p&dl=1"
   },
   {
     "FileName": "SneedsRadioDowngrader.zip",
     "FileSize": 719170076,
     "NeedsToBeDecompressed": false,
     "Type": "RADIO_DOWNGRADE",
-    "DownloadURL": "ftp://195.201.179.80/IVDowngraderFiles/SneedsRadioDowngrader.zip"
+    "DownloadURL": "https://www.dropbox.com/scl/fi/5grxo7y9kndrkg9rrklzs/SneedsRadioDowngrader.zip?rlkey=qvpcbkl9ev2ee4fkzw0zykimf&dl=1"
   },
   {
     "FileName": "WithNewVladivostok.zip",
